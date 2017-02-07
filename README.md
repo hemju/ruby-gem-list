@@ -26,3 +26,9 @@ Allows you to query DB and generate reports from it. Looks nice
 Generates XLSX, ODS and CSV from ruby objects
 
 [GitHub Repo](https://github.com/westonganger/spreadsheet_architect)
+
+### Emojis
+
+Used by Gitlab
+
+https://github.com/jonathanwiesel/gemojione
